@@ -5,7 +5,7 @@
  
 **Temos nesses comandos:**
  
-  Comandos  |  Utilização do código.
+  Comandos  |  Utilização dos comandos.
   -------- |  -----------------
   git clone |  utilizado para fazer o "download" do código contido no GitHub.
   git status |  utilizado para verificar a situação que se encontra o código em contexto.
