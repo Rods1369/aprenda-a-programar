@@ -1,6 +1,8 @@
 ## **aprenda-a-programar** <h2>
 ***Este repositório é um tutorial do nosso primeiro contato com o GitHub.***
 ***Contemos nele a utilização dos principais comandos para fazer-se a pull e o push de um codigo.***
+ 
+ 
 **Temos nesses comandos:**
  
   Codigos  |  utilização do codigo.
