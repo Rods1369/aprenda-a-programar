@@ -5,10 +5,10 @@
  
 **Temos nesses comandos:**
  
-  Codigos  |  utilização do codigo.
+  Códigos  |  Utilização do código.
   -------- |  -----------------
-  git clone |  utilizado para fazer o "download" do codigo contido no GitHub.
-  git status |  utilizado para verificar a situação que se encontra o codigo em contexto.
-  git add |  utilizado para adicionar qualquer modificação no codigo.
-  git commit -m |  utilizado para confirmar e salvar as alterações do codigo e adicionar uma mensagem de contexto sobre o codigo.
-  git push |  utilizado para fazer o upload do codigo no GitHub.
+  git clone |  utilizado para fazer o "download" do código contido no GitHub.
+  git status |  utilizado para verificar a situação que se encontra o código em contexto.
+  git add |  utilizado para adicionar qualquer modificação no código.
+  git commit -m |  utilizado para confirmar e salvar as alterações do código e adicionar uma mensagem de contexto sobre o código.
+  git push |  utilizado para fazer o upload do código no GitHub.
